@@ -1,0 +1,3 @@
+注意，concat()方法并没有修改当前Array，而是返回了一个新的Array。
+
+实际上，concat()方法可以接收任意个元素和Array，并且自动把Array拆开，然后全部添加到新的Array里：
